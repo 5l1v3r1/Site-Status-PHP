@@ -59,7 +59,7 @@ $base_link   = $_SERVER['HTTP_HOST'] . "/";
 if ($actual_link == $base_link) {
     echo "";
 } else {
-    echo '<img alt="Website" src="https://img.shields.io/website/https/' . $_GET['q'] . '?down_color=red&down_message=https:/' . $_GET['q'] . '%20is%20Offline&style=for-the-badge&up_color=green&up_message=https:/' . $_GET['q'] . '%20is%20Online" width="100%" height="auto"><br><br>';
+    echo '<img alt="Website" src="https://img.shields.io/website/https/' . $_GET['q'] . '?down_color=red&down_message=https://' . $_GET['q'] . '%20is%20Offline&style=for-the-badge&up_color=green&up_message=https://' . $_GET['q'] . '%20is%20Online" width="100%" height="auto"><br><br>';
 }
 ?>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
