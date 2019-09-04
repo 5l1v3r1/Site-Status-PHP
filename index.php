@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+  <title>Site Status by Parveen Bhadoo</title>
 <style>
 input[type=text], select {
   width: 100%;
@@ -73,5 +74,6 @@ $('#domain').on('input', function() {
   $(this).val(cleanInput);
 });
 </script>
+<center><p>This Project is <a href="https://github.com/ParveenBhadooOfficial/Site-Status-PHP" target="_blank">Open Source</a><br><br></center>
 </body>
 </html>
