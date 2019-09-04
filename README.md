@@ -1,3 +1,12 @@
-# Check Website Online Status Using PHP
+<div align="center">
+        
+# Website Status
+using PHP and Shields.io
 
-Upload both files into root of server i.e. works only with if using base like example.com or www.example.com. It won't work on example.com/status. 404 Pages are directed to use PHP to make website dynamic. Parameters are not used.
+[![Website](https://img.shields.io/website/https/site-status-php.herokuapp.com.svg?down_message=site-status-php.herokuapp.com%20is%20Offline&style=for-the-badge&up_message=site-status-php.herokuapp.com%20is%20Online)](https://site-status-php.herokuapp.com)
+
+</div>
+
+## Installation
+
+Upload to root and enjoy.
