@@ -51,7 +51,7 @@ $base_link   = $_SERVER['HTTP_HOST'] . "/";
 if ($actual_link == $base_link) {
     echo "";
 } else {
-    echo '<br><br><img alt="Website" src="https://img.shields.io/website/http/' . $_GET['q'] . '?down_color=red&down_message=http:/' . $_GET['q'] . '%20is%20Offline&style=for-the-badge&up_color=green&up_message=http:/' . $_GET['q'] . '%20is%20Online" width="100%" height="auto"><br><br>';
+    echo '<br><br><img alt="Website" src="https://img.shields.io/website/http/' . $_GET['q'] . '?down_color=red&down_message=http://' . $_GET['q'] . '%20is%20Offline&style=for-the-badge&up_color=green&up_message=http://' . $_GET['q'] . '%20is%20Online" width="100%" height="auto"><br><br>';
 }
 
 $actual_link = $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
