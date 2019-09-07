@@ -3,7 +3,7 @@
 # Website Status
 using PHP and Shields.io
 
-[![Website](https://img.shields.io/website/https/site-status.hashhackerapps.ga.svg?down_message=site-status.hashhackerapps.ga%20is%20Offline&style=for-the-badge&up_message=site-status.hashhackerapps.ga%20is%20Online)](https://https://site-status.hashhackerapps.ga/?q=site-status.hashhackerapps.ga)
+[![Website](https://img.shields.io/website/https/site-status.hashhackerapps.ga.svg?down_message=site-status.hashhackerapps.ga%20is%20Offline&style=for-the-badge&up_message=site-status.hashhackerapps.ga%20is%20Online)](https://site-status.hashhackerapps.ga/?q=site-status.hashhackerapps.ga)
 
 </div>
 
